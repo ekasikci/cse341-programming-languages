@@ -1,0 +1,6 @@
+( + 4b2 6b2 )
+( set x 3b7 )
+( set y 4b5 )
+( + x y )
+( def sum x y ( + x y ) )
+( exit )
